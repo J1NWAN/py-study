@@ -1,0 +1,15 @@
+2026-11-16 09:00:01 INFO server started on port 8080
+2026-11-16 09:00:05 INFO user login id=kim
+2026-11-16 09:01:12 WARN slow query took 2300ms
+2026-11-16 09:02:40 ERROR database connection timeout
+2026-11-16 09:02:41 ERROR database connection timeout
+2026-11-16 09:03:10 INFO user login id=lee
+2026-11-16 09:04:22 ERROR file not found: report.pdf
+2026-11-16 09:05:00 INFO user logout id=kim
+2026-11-16 09:06:31 WARN disk usage 85%
+2026-11-16 09:07:45 ERROR database connection timeout
+2026-11-16 09:08:02 INFO user login id=park
+2026-11-16 09:09:19 ERROR invalid token
+2026-11-16 09:10:00 INFO scheduled job finished
+2026-11-16 09:11:27 ERROR file not found: report.pdf
+2026-11-16 09:12:03 INFO user logout id=lee
