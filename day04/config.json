@@ -1,0 +1,7 @@
+{
+  "name": "docvault",
+  "port": 8000,
+  "debug": true,
+  "allowed_hosts": ["localhost", "127.0.0.1"],
+  "db": { "path": "data/app.db", "timeout_seconds": 5 }
+}

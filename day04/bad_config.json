@@ -1,0 +1,6 @@
+{
+  "name": "docvault",
+  "port": "70000",
+  "allowed_hosts": "localhost",
+  "db": { "timeout_seconds": 5 }
+}
